@@ -12,7 +12,7 @@ h1{
       display : flex;
   }
 .half{
-    width: 25%;
+    width: 50%;
 }
 .half img{
     width:110%
@@ -34,7 +34,70 @@ h1{
 }
 .line{
     color: gray;
-    text align:center;
+    text-align: center ;
 }
+.linee{
+    color:indianred;
+    text-align: center;
+}
+.lineee{
+    color:indianred;
+    text-align: center;
+}
+.item{
+    width:50%;
+    margin-left: 4%;
+    margin-right:4%;
+    padding-left: 5%;
+    padding-right: 10%;
+border-radius: 15px;
+    box-shadow: 30px 120px 50px gray;
+}
+.item img{
+    height: 250px;
+    width: 0 auto;
+}
+.im{
+    width:270px;
+}
+.text{
+    color: gray;
+}
+.sec{
+    display: flex;
+}
+.about{
 
+   color:lightcoral;
+   text-align: cneter;
 
+}
+.sec img{
+    width:20%
+}
+.halff{
+  
+  width: 30%;
+
+  
+}
+.back{
+    background-image: url("fra.jpg");
+    background-repeat: no repeat;
+}
+.itemm{
+
+ 
+    width:50%;
+    margin-left: 7%;
+    margin-right:9%;
+    padding-left: 20%;
+    padding-right: 10%;
+border-radius: 15px;
+    box-shadow: 30px 120px 50px gray;
+
+}
+.last{
+    background-color: rgb(88, 3, 31);
+    text-align: center;
+}
