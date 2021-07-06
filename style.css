@@ -1,12 +1,40 @@
 body{
-
-
-
-
-
-
-
-
-
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
     
 }
+  .orange{
+      color:orange;
+  }
+  section{
+      display : flex;
+  }
+.half{
+    width: 25%;
+}
+.half img{
+    width:110%
+}
+.food{
+    text-decoration: none;
+   background-image: linear-gradient(orange,rgb(224, 41, 9));
+   padding: 10px 20px;
+   color:white;
+   font width:300;
+   border-radius: 30px;
+
+}
+
+.img{
+    
+   height: 580px;
+   
+}
+.line{
+    color: gray;
+    text align:center;
+}
+
+
